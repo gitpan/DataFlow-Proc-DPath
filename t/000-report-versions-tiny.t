@@ -49,6 +49,7 @@ sub pmver {
 }
 
 eval { $v .= pmver('Data::DPath','any version') };
+eval { $v .= pmver('DataFlow','1.112100') };
 eval { $v .= pmver('DataFlow::Proc','any version') };
 eval { $v .= pmver('English','any version') };
 eval { $v .= pmver('ExtUtils::MakeMaker','6.30') };

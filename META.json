@@ -22,6 +22,7 @@
       "runtime" : {
          "requires" : {
             "Data::DPath" : 0,
+            "DataFlow" : "1.112100",
             "DataFlow::Proc" : 0,
             "Moose" : 0,
             "namespace::autoclean" : 0
@@ -49,6 +50,6 @@
          "web" : "https://github.com/russoz/DataFlow-Proc-DPath"
       }
    },
-   "version" : "1.112050"
+   "version" : "1.112100"
 }
 

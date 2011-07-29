@@ -3,7 +3,7 @@ NAME
     structures
 
 VERSION
-    version 1.112050
+    version 1.112100
 
 SYNOPSIS
       use DataFlow::Proc::DPath;

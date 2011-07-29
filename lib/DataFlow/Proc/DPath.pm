@@ -5,7 +5,7 @@ use warnings;
 
 # ABSTRACT: A processor that filters parts of data structures
 
-our $VERSION = '1.112050';    # VERSION
+our $VERSION = '1.112100';    # VERSION
 
 use Moose;
 extends 'DataFlow::Proc';
@@ -56,7 +56,7 @@ DataFlow::Proc::DPath - A processor that filters parts of data structures
 
 =head1 VERSION
 
-version 1.112050
+version 1.112100
 
 =head1 SYNOPSIS
 
